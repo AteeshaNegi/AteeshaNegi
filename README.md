@@ -1,4 +1,4 @@
-# Ateesha Negi - Molecular Genetics & Bioinformatics Portfolio
+# Ateesha Negi - Molecular Genetics & Bioinformatics 
 
 [![ORCID](https://img.shields.io/badge/ORCID-Register-green.svg)](https://orcid.org/register)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/ateesha-negi/)
