@@ -14,20 +14,20 @@ I am passionate about short and long read library preparation and sequencing of 
 ### [Whole Genome Assembly Pipeline](https://github.com/AteeshaNegi/wga-genome-assembly)
 Hybrid genome assembly workflow combining Illumina short-reads and PacBio long-reads with comprehensive quality assessment and polishing steps (Drosophila sister species).
 
+### [Oxford Nanopore 2-Read Genome-wide tRNA Modification Analysis](https://github.com/AteeshaNegi/nanopore-2Read-trna-pipeline)
+Pipeline for analyzing 2-Read tRNA epitranscriptome using direct Oxford Nanopore sequencing through basecalling error signatures and termination patterns (E. coli strains and Human tRNA).
+
+### [Single-Cell RNA-seq Analysis Notebooks](./projects/scrna-seq-workflow/)
+End-to-end pipeline for single-cell RNA sequencing with cell type identification and trajectory analysis (Human).
+
+### [Human Whole Genome Variant Analysis Workshop](./projects/variant-calling-pipeline/)
+Production-ready variant calling workflow for clinical genomics with quality control and annotation (Human).
+
 ### [Transcriptome Analysis for Candidate Genes](./projects/transcriptome-analysis/)
 Comparative transcriptomics analysis to identify candidate genes for co-evolved behavior using differential expression and pathway analysis (Drosophila sister species and Tea plant).
 
 ### [Applying Induro-RNA-Seq](./projects/Induro-RNA-Seq-analysis/)
 Validating and applying Induro-RNAseq for tRNA abundance and epitranscriptomic analysis (overexpressed E. coli strains and Human mitochondrial tRNA).
-
-### [Oxford Nanopore 2-Read Genome-wide tRNA Modification Analysis](https://github.com/AteeshaNegi/nanopore-2Read-trna-pipeline)
-Pipeline for analyzing 2-Read tRNA epitranscriptome using direct Oxford Nanopore sequencing through basecalling error signatures and termination patterns (E. coli strains and Human tRNA).
-
-### [Single-Cell RNA-seq Analysis Workshop](./projects/scrna-seq-workflow/)
-End-to-end pipeline for single-cell RNA sequencing with cell type identification and trajectory analysis (Human).
-
-### [Human Whole Genome Variant Analysis Workshop](./projects/variant-calling-pipeline/)
-Production-ready variant calling workflow for clinical genomics with quality control and annotation (Human).
 
 ### [Multi-omics Integration Platform Workshop ](./projects/epigenome-integration/)
 Framework combining ChIP-seq, ATAC-seq, and DNA methylation data for regulatory landscape analysis (Human).
