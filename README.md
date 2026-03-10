@@ -56,13 +56,3 @@ Framework combining ChIP-seq, ATAC-seq, and DNA methylation data for regulatory 
 ## Let's Connect
 
 I'm always interested in collaborating on genomics projects and discussing opportunities in molecular genetics and bioinformatics. Feel free to reach out!
-
-- **Email**: [ateeshanegi.bio@gmail.com](mailto:ateeshanegi.bio@gmail.com)
-- **LinkedIn**: [ateesha-negi](https://www.linkedin.com/in/ateesha-negi/)
-- **Google Scholar**: [Research Profile](https://scholar.google.ca/citations?user=iWQPB9cAAAAJ&hl=en&oi=ao)
-- **ORCID**: Register at [orcid.org](https://orcid.org/register)
-- **GitHub**: [@ateeshanegi](https://github.com/ateeshanegi)
-
----
-
-*Last updated: March 2026*
