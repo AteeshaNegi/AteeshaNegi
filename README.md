@@ -14,7 +14,7 @@ I am passionate about short and long read library preparation and sequencing of 
 
 ## Projects
 
-### [Whole Genome Assembly Pipeline](./projects/wga-genome-assembly/)
+### [Whole Genome Assembly Pipeline](https://github.com/AteeshaNegi/wga-genome-assembly)
 Hybrid genome assembly workflow combining Illumina short-reads and PacBio long-reads with comprehensive quality assessment and polishing steps (Drosophila sister species).
 
 ### [Transcriptome Analysis for Candidate Genes](./projects/transcriptome-analysis/)
