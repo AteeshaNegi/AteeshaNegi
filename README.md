@@ -39,9 +39,9 @@ Framework combining ChIP-seq, ATAC-seq, and DNA methylation data for regulatory 
 - **Sample Prep**: DNA/RNA isolation from various tissue types, HMW DNA extraction, targeted DNA/RNA selection
 - **Quality Control**: PCR/qPCR (Applied Biosystems, Bio-Rad, Agilent), Qubit, Bioanalyzer/TapeStation, analytical gels
 
-### Programming & Data Science
-- **Python**: Advanced (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly)
-- **R**: Advanced (Bioconductor, tidyverse, ggplot2, Shiny)
+### Programming for Genomic Data
+- **Python**: BioPython, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly
+- **R**: Bioconductor, tidyverse, ggplot2, Shiny 
 - **Machine Learning**: TensorFlow, PyTorch, statistical analysis
 - **Shell**: Bash scripting, workflow automation
 - **Databases**: Genomic databases (NCBI, Ensembl, UCSC)
