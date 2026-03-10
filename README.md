@@ -1,16 +1,29 @@
-# Ateesha Negi - Molecular Genetics & Bioinformatics 
+# Ateesha Negi 
 
 [![ORCID](https://img.shields.io/badge/ORCID-Register-green.svg)](https://orcid.org/register)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/ateesha-negi/)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:ateeshanegi.bio@gmail.com)
 
 ## About Me 👋
-Molecular biologist | Genetics | Sequencing Specialist | Bioinformatics 
-
-## Research Interests
+Molecular Biologist | Genetics | Sequencing Specialist | Bioinformatics 
 
 I am passionate about short and long read library preparation and sequencing of genomes to generate big data and adopt advanced bioinformatics tools to unravel the genetic underpinnings of human health and disease.
 
+## Technical Skills
+
+### Laboratory Platforms
+- **Sequencing**: Illumina, Oxford Nanopore, PacBio, Sanger, 10x Genomics
+- **Sample Prep**: DNA/RNA isolation from various tissue types, HMW DNA extraction, targeted DNA/RNA selection
+- **Quality Control**: PCR/qPCR (Applied Biosystems, Bio-Rad, Agilent), Qubit, Bioanalyzer/TapeStation, analytical gels
+
+### Programming & Data Science
+- **Python**: Advanced (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly)
+- **R**: Advanced (Bioconductor, tidyverse, ggplot2, Shiny)
+- **Machine Learning**: TensorFlow, PyTorch, statistical analysis
+- **Shell**: Bash scripting, workflow automation
+- **Databases**: Genomic databases (NCBI, Ensembl, UCSC)
+- **Visualization**: IGV, UCSC Genome Browser, Circos, Bandage, JBrowse
+- **Workflow Management**: Nextflow, Snakemake, Docker, GitHub
 
 ## Projects
 
@@ -34,24 +47,6 @@ Production-ready variant calling workflow for clinical genomics with quality con
 
 ### [Multi-omics Integration Platform Workshop ](./projects/epigenome-integration/)
 Framework combining ChIP-seq, ATAC-seq, and DNA methylation data for regulatory landscape analysis (Human).
-
-
-## Technical Skills
-
-### Laboratory Platforms
-- **Sequencing**: Illumina (MiSeq, HiSeq, NovaSeq), Oxford Nanopore (MinION, PromethION), PacBio (Sequel II), Sanger, 10x Genomics
-- **Sample Prep**: DNA/RNA isolation from various tissue types, HMW DNA extraction, targeted DNA/RNA selection
-- **Quality Control**: PCR/qPCR (Applied Biosystems, Bio-Rad, Agilent), Qubit, Bioanalyzer/TapeStation, analytical gels
-
-### Programming & Data Science
-- **Python**: Advanced (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly)
-- **R**: Advanced (Bioconductor, tidyverse, ggplot2, Shiny)
-- **Machine Learning**: TensorFlow, PyTorch, statistical analysis
-- **Shell**: Bash scripting, workflow automation
-- **Databases**: Genomic databases (NCBI, Ensembl, UCSC)
-- **Visualization**: IGV, UCSC Genome Browser, Circos, Bandage, JBrowse
-- **Workflow Management**: Nextflow, Snakemake, Docker, GitHub
-
 
 ## Let's Connect
 
