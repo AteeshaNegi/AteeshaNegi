@@ -23,7 +23,7 @@ Comparative transcriptomics analysis to identify candidate genes for co-evolved 
 ### [Applying Induro-RNA-Seq](./projects/Induro-RNA-Seq-analysis/)
 Validating and applying Induro-RNAseq for tRNA abundance and epitranscriptomic analysis (overexpressed E. coli strains and Human mitochondrial tRNA).
 
-### [Oxford Nanopore 2-Read Genome-wide tRNA Modification Analysis](./projects/nanopore-trna-pipeline/)
+### [Oxford Nanopore 2-Read Genome-wide tRNA Modification Analysis](https://github.com/AteeshaNegi/nanopore-2Read-trna-pipeline)
 Pipeline for analyzing 2-Read tRNA epitranscriptome using direct Oxford Nanopore sequencing through basecalling error signatures and termination patterns (E. coli strains and Human tRNA).
 
 ### [Single-Cell RNA-seq Analysis Workshop](./projects/scrna-seq-workflow/)
