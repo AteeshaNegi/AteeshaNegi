@@ -20,7 +20,7 @@ Hybrid genome assembly workflow combining Illumina short-reads and PacBio long-r
 ### [Transcriptome Analysis for Candidate Genes](./projects/transcriptome-analysis/)
 Comparative transcriptomics analysis to identify candidate genes for co-evolved behavior using differential expression and pathway analysis (Drosophila sister species and Tea plant).
 
-### [Applying Induro-RNASeq](./projects/Induro-RNA-Seq-analysis/)
+### [Applying Induro-RNA-Seq](./projects/Induro-RNA-Seq-analysis/)
 Validating and applying Induro-RNAseq for tRNA abundance and epitranscriptomic analysis (overexpressed E. coli strains and Human mitochondrial tRNA).
 
 ### [Oxford Nanopore 2-Read Genome-wide tRNA Modification Analysis](./projects/nanopore-trna-pipeline/)
