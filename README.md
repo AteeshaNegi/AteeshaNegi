@@ -23,7 +23,7 @@ End-to-end pipeline for single-cell RNA sequencing with cell type identification
 ### [Human Whole Genome Variant Analysis Workshop](./projects/variant-calling-pipeline/)
 Production-ready variant calling workflow for clinical genomics with quality control and annotation (Human).
 
-### [Transcriptome Analysis for Candidate Genes](./projects/transcriptome-analysis/)
+### [Transcriptome Analysis for Candidate Genes](https://github.com/AteeshaNegi/transcriptome-analysis)
 Comparative transcriptomics analysis to identify candidate genes for co-evolved behavior using differential expression and pathway analysis (Drosophila sister species and Tea plant).
 
 ### [Applying Induro-RNA-Seq](./projects/Induro-RNA-Seq-analysis/)
