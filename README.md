@@ -7,7 +7,7 @@
 ## About Me 👋
 Molecular Biologist | Genetics | Sequencing Specialist | Bioinformatics 
 
-I am passionate about short and long read library preparation and sequencing of genomes to generate big data and adopt advanced bioinformatics tools to unravel the genetic underpinnings of human health and disease.
+Molecular Biologist with a strong background in Bioinformatics and Genetics: My background is a blend of wet-lab research, sequencing expertise (Long-&-Short-Read: Illumina, Oxford Nanopore, PacBio, 10X Genomics), and designing pipelines for computational analysis of (epi)genomic and (epi)transcriptomic data across multiple model systems.
 
 ## Projects
 
